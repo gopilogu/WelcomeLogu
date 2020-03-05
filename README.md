@@ -1,4 +1,4 @@
 # WelcomeLogu
-Training
 
-This the document for explore github
+
+This the document for explore
